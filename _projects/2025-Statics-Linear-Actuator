@@ -1,5 +1,5 @@
-layout	title	description	technologies	image
-project
-Linear Acctuator
-Sketch
-/assets/images/Statics-Linear-Actuator.jpg
+layout: project
+title: Statics Linear Actuator
+description: Homework Assignment for ENGRD2020
+technologies: Goodnotes on iPad
+image: /assets/images/Statics-Linear-Actuator/.jpeg
