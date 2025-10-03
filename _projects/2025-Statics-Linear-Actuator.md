@@ -3,7 +3,7 @@ layout: project
 title: Statics Linear Actuator
 description: Homework Assignment for ENGRD2020
 technologies: Goodnotes on iPad
-image: /assets/images/2025-Statics-Linear-Actuator.jpg
+image: assets/images/2025-Statics-Linear-Actuator.jpg
 ---
 
 The purpose of this assignment was to introduce us to a real-world applicaiton of the concepts that we are learning in class. We explored how
