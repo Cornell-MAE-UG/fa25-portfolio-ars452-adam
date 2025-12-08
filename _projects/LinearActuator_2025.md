@@ -3,7 +3,7 @@ layout: project
 title: Statics Linear Actuator
 description: Homework Assignment for ENGRD2020
 technologies: Goodnotes on iPad
-image: assets/images/2025-Statics-Linear-Actuator.jpg
+image: assets/images/Heavy-duty electric actuator with extended service life.png
 ---
 
 <img src="../../assets/images/weight-lifting-diagram.jpeg" width=300px>
