@@ -9,18 +9,11 @@ category: [Thermodynamics]
 
 # Thermodynamic Analysis of the Cummins X12 Engine Used in the MCI J4500
 
-In this report, I address the task of selecting a real-world instance of a device or system, explaining how it works in detail, and analyzing its performance under a change in operating conditions. This analysis includes:
-
-* A description of the system (MCI J4500 Motor Coach engine)
-* System diagrams and thermodynamic cycle descriptions
-* Mass, energy, and entropy balance equations capturing the central physics
-* Comparison of performance between standard operating conditions and "cold" winter conditions.
+Earlier this week, after completing my last final of the Fall 2025, I scurried home to leave behind all of my semester blues. The journey from Ithaca to my home in NYC was fortunately made smooth and efficient thanks to Cornell's Campus to Campus shuttle service, which provides round-trip service between the university's medical and general campuses. The shuttle service primarily utilizes the MCI J4500 motorcoach, so as a way to give thanks for the impeccable transportation, I have chosen to analyze the engine that powers this incredible bus.
 
 ## Background
 
-The MCI J4500 is the best-selling motor coach in North America, widely used for intercity travel, tour operations, and corporate shuttles. To analyze the thermodynamics powering this vehicle, I have selected its standard powerplant: the **Cummins X12**.
-
-This heavy-duty diesel engine is a workhorse of the industry, known for its high power-to-weight ratio. Unlike the small gasoline engine in typical automotive examples, this is a turbocharged, inline-6 diesel engine.
+The MCI J4500 is among the best-selling motor coaches in the United States, praised for its for dependability and comfort across uses ranging from intercity travel to tour operations. The **Cummins X12** is the heavy-duty diesel engine behind this beauty, renowened for its high power-to-weight ratio that makes operating (and resting in) the bus a seamless experience.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -31,10 +24,10 @@ This heavy-duty diesel engine is a workhorse of the industry, known for its high
     The MCI J4500 Motor Coach equipped with the Cummins X12 Diesel Engine.
 </div>
 
-The Cummins X12 produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. I will perform the following analysis:
+The Cummins X12 in this application produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. I will perform the following analysis:
 
 1.  **Calculate the Diesel Cycle efficiency, Power, and MEP of the X12 assuming room temperature intake conditions (intercooled).**
-2.  **Recalculate these values assuming 0°C (273 K) operating conditions, simulating winter driving.**
+2.  **Recalculate these values assuming 0°C (273 K) operating conditions, simulating winter driving (as is typical in the depths of Ithaca's winter).**
 3.  **Compare the ideal thermodynamic performance to the real-world rated power.**
 
 ## Engine Specifications and Assumptions
