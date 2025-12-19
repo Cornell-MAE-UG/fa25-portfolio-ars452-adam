@@ -35,7 +35,7 @@ The Cummins X12 in this application produces up to 455 HP and utilizes a 4-strok
 * **Compression ratio ($r$):** 18.3:1
 * **Engine displacement ($V_{total}$):** 11.9 Liters ($0.0119 \text{ m}^3$)
 * **Cylinders:** 6 (Inline)
-* **Displacement per cylinder ($V_d$):** $1.98 Liters ($0.00198 \text{ m}^3$)
+* **Displacement per cylinder ($V_d$):** 1.98 Liters ($0.00198 \text{ m}^3$)
 * **Rated Power:** 455 HP at 1800 RPM
 
 **Analysis Assumptions:**
