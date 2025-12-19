@@ -15,7 +15,7 @@ The MCI J4500 is among the best-selling motor coaches in the United States, prai
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="https://www.mcicoach.com/site-content/uploads/2021/05/J4500-feature-2.jpg" alt="MCI J4500 and Cummins X12" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/bus.jpg" alt="MCI J4500 and Cummins X12" data-zoomable>
     </div>
 </div>
 <div class="caption">
