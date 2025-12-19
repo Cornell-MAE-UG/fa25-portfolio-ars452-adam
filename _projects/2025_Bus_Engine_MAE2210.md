@@ -2,7 +2,7 @@
 layout: project
 title: Thermodynamic Analysis of the Cummins X12 Engine
 description: An analysis of the MCI J4500 bus engine cycle efficiency and power output under varying weather conditions.
-img: https://www.mcicoach.com/site-content/uploads/2021/05/J4500-feature-2.jpg
+img: assets/images/X12_engine_photo.png
 importance: 1
 category: [Thermodynamics]
 ---
