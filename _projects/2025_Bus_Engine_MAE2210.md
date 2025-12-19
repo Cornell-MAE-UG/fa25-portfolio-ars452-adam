@@ -7,8 +7,6 @@ importance: 1
 category: [Thermodynamics]
 ---
 
-# Thermodynamic Analysis of the Cummins X12 Engine Used in the MCI J4500
-
 Earlier this week, after completing my last final of the Fall 2025, I scurried home to leave behind all of my semester blues. The journey from Ithaca to my home in NYC was fortunately made smooth and efficient thanks to Cornell's Campus to Campus shuttle service, which provides round-trip service between the university's medical and general campuses. The shuttle service primarily utilizes the MCI J4500 motorcoach, so as a way to give thanks for the impeccable transportation, I have chosen to analyze the engine that powers this incredible bus.
 
 ## Background
