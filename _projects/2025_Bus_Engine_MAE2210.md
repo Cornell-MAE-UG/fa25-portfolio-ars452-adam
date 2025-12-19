@@ -49,7 +49,11 @@ A real diesel cycle involves complex injection timing and blowdown phases. Howev
 3.  **Isentropic Expansion (3 → 4)** (Power stroke)
 4.  **Isochoric Heat Rejection (4 → 1)** (Exhaust)
 
-This cycle provides the upper bound for the engine's efficiency and power output, which is what we can use for subsequent calucations.
+The Ideal Diesel Cycle can be modeled on PV and TS diagrams, as drawn below. Notice how process 2-3 is constant pressure and process 4-1 is constant volume.
+
+<img src="../../assets/images/C2Cbus.jpg" width=500px>
+
+This cycle also provides the upper bound for the engine's efficiency and power output, which is what we can use for subsequent calucations.
 
 ## Performance Calculations
 
@@ -88,7 +92,8 @@ $$
 $$
 V_2 = \frac{V_1}{r} = 1.14\times10^{-4}\ \text{m}^3
 $$
-V_2 is the volume that they cylinder compresses to from stage 1 to 2.
+
+This is the volume that they cylinder compresses to from stage 1 to 2.
 ### 2. Heat Addition (2 → 3)
 
 **Assumption:** Isobaric heat addition (Constant Pressure).
