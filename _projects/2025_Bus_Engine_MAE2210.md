@@ -24,9 +24,9 @@ The MCI J4500 is among the best-selling motor coaches in the United States, prai
 
 The Cummins X12 in this application produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. To fully analyze its thermodynamics properties, I will:
 
-1.  **Calculate the Diesel Cycle efficiency, Power, and MEP of the X12 assuming room temperature intake conditions (intercooled).**
-2.  **Recalculate these values assuming 0°C (273 K) operating conditions, simulating winter driving (as is typical in the depths of Ithaca's winter).**
-3.  **Compare the ideal thermodynamic performance to the real-world rated power.**
+1.  Calculate the Diesel Cycle efficiency, Power, and MEP of the X12 assuming room temperature intake conditions (intercooled).
+2.  Recalculate these values assuming 0°C (273 K) operating conditions, simulating winter driving (as is typical in the depths of Ithaca's winter).
+3.  Compare the ideal thermodynamic performance to the real-world rated power.
 
 ## Engine Specifications and Assumptions
 
