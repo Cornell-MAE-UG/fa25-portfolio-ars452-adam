@@ -52,7 +52,7 @@ A real diesel cycle involves complex injection timing and blowdown phases. Howev
 
 The Ideal Diesel Cycle can be modeled on PV and TS diagrams, as drawn below. Notice how process 2-3 is constant pressure and process 4-1 is constant volume.
 
-<img src="../../assets/images/ENGRD 2210 diagrams.png" width=500px>
+<img src="../../assets/images/ENGRD 2210-2.png" width=500px>
 
 This cycle also provides the upper bound for the engine's efficiency and power output, which is what we can use for subsequent calucations.
 
