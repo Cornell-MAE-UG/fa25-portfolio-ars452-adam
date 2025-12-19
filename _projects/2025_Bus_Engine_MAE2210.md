@@ -12,14 +12,7 @@ Earlier this week, after completing my last final of the Fall 2025, I scurried h
 
 The MCI J4500 is among the best-selling motor coaches in the United States, praised for its for dependability and comfort across uses ranging from intercity travel to tour operations. The **Cummins X12** is the heavy-duty diesel engine behind this beauty, renowened for its high power-to-weight ratio that makes operating (and resting in) the bus a seamless experience.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="assets/images/C2Cbus.jpg" alt="MCI J4500 and Cummins X12" data-zoomable>
-    </div>
-</div>
-<div class="caption">
-    The MCI J4500 Motor Coach is equipped with the Cummins X12 Diesel Engine.
-</div>
+<img src="../../assets/images/C2Cbus.jpg" width=500px>
 
 The Cummins X12 in this application produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. To fully analyze its thermodynamics properties, I will:
 
