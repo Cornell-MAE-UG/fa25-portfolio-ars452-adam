@@ -279,6 +279,8 @@ The analysis of the Cummins X12 reveals that:
 
 This explains why buses like the J4500 can feel more "peppy" in the winter; the engine is breathing denser air, producing more torque and power, even if the thermodynamic efficiency cycle-to-cycle is marginally lower.
 
+By Adam (ars452)
+
 <script>
   MathJax = {
     tex: {
