@@ -19,10 +19,10 @@ The MCI J4500 is among the best-selling motor coaches in the United States, prai
     </div>
 </div>
 <div class="caption">
-    The MCI J4500 Motor Coach equipped with the Cummins X12 Diesel Engine.
+    The MCI J4500 Motor Coach is equipped with the Cummins X12 Diesel Engine.
 </div>
 
-The Cummins X12 in this application produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. I will perform the following analysis:
+The Cummins X12 in this application produces up to 455 HP and utilizes a 4-stroke compression-ignition cycle. To fully analyze its thermodynamics properties, I will:
 
 1.  **Calculate the Diesel Cycle efficiency, Power, and MEP of the X12 assuming room temperature intake conditions (intercooled).**
 2.  **Recalculate these values assuming 0°C (273 K) operating conditions, simulating winter driving (as is typical in the depths of Ithaca's winter).**
@@ -40,6 +40,8 @@ The Cummins X12 in this application produces up to 455 HP and utilizes a 4-strok
 
 **Analysis Assumptions:**
 
+Let's then define some assumptions that can make this analysis more palatable:
+
 * **Model:** Cold-air-standard **Diesel Cycle** (Isobaric Heat Addition).
 * **Intake Pressure ($P_1$):** 200 kPa (Assumed boost pressure from turbocharger).
 * **Combustion Input ($q_{in}$):** $1.8 \times 10^6 \text{ J/kg}$ (Estimate for full-load diesel combustion).
@@ -48,18 +50,18 @@ The Cummins X12 in this application produces up to 455 HP and utilizes a 4-strok
 
 ## Real vs. Idealized Cycles
 
-A real diesel cycle involves complex injection timing and blowdown phases. However, we can model it thermodynamically as the Ideal Diesel Cycle, consisting of four processes:
+A real diesel cycle involves complex injection timing and blowdown phases. However, we can model it thermodynamically as the Ideal Diesel Cycle consisting of the following four processes:
 
 1.  **Isentropic Compression (1 → 2)**
 2.  **Isobaric Heat Addition (2 → 3)** (Fuel injection and combustion)
 3.  **Isentropic Expansion (3 → 4)** (Power stroke)
 4.  **Isochoric Heat Rejection (4 → 1)** (Exhaust)
 
-This cycle provides the upper bound for the engine's efficiency and power output.
+This cycle provides the upper bound for the engine's efficiency and power output, which is what we can use for subsequent calucations.
 
 ## Performance Calculations
 
-This analysis evaluates the ideal Diesel cycle performance of one cylinder of the Cummins X12. The total engine power will be 6 times the single-cylinder output.
+This analysis evaluates the ideal Diesel cycle performance of one cylinder of the Cummins X12. The total engine power will be 6 times the single-cylinder output (since the engine contains 6 cylinders, all assumed to function similar thermodynamically).
 
 **Inputs:**
 
@@ -67,7 +69,7 @@ $$
 T_1 = 300\ \text{K}, \quad r = 18.3, \quad \gamma = 1.4
 $$
 $$
-P_1 = 200\ \text{kPa}, \quad R = 287\ \text{J/kg K}, \quad V_d = 1.98\times10^{-3}\ \text{m}^3
+P_1 = 200\ \text{kPa}, \quad R = 287\ \text{J/kg K}, \quad V_d = 1.98\times10^{-3}\ \text{m}^3 (displacment volume)
 $$
 $$
 q_{in} = 1.8 \times 10^6\ \text{J/kg}
@@ -94,7 +96,7 @@ $$
 $$
 V_2 = \frac{V_1}{r} = 1.14\times10^{-4}\ \text{m}^3
 $$
-
+V_2 is the volume that they cylinder compresses to from stage 1 to 2.
 ### 2. Heat Addition (2 → 3)
 
 **Assumption:** Isobaric heat addition (Constant Pressure).
@@ -271,15 +273,15 @@ $$
 
 ## Comparisons / Conclusions
 
-The analysis of the Cummins X12 reveals interesting thermodynamic behaviors distinct from the gasoline Otto cycle:
+The analysis of the Cummins X12 reveals that:
 
-1.  **Efficiency:** The Diesel efficiency is high (~60%), but interestingly, it **decreased** slightly (by 0.7%) in the cold air scenario. This is because the denser cold air required a longer isobaric expansion (higher cutoff ratio) to absorb the same specific heat input, which is thermodynamically less efficient than isochoric heat addition.
-2.  **Power:** Despite the slight efficiency drop, the **power output increased significantly** (from 628 HP to 682 HP, an 8.6% increase). This is driven purely by the increased air density ($m$ increased), allowing more working fluid to process the energy per cycle.
-3.  **Real vs. Ideal:** The engine operates at about 72.5% of its theoretical air-standard limit. The remaining losses are due to friction, heat transfer to coolant, pumping losses (turbo backpressure), and non-instantaneous combustion.
+1.  **Efficiency:** The Diesel efficiency is high (~60%), but interestingly, it decreased slightly (by 0.7%) in the cold air scenario. This is because the denser cold air required a longer isobaric expansion (higher cutoff ratio) to absorb the same specific heat input, which is thermodynamically less efficient than isochoric heat addition.
+2.  **Power:** Despite the slight efficiency drop, the power output significalty increased  (from 628 HP to 682 HP, a measurable 8.6% increase). This is driven purely by the increased air density ($m$ increased), allowing more working fluid to process the energy per cycle.
+3.  **Real vs. Ideal:** The engine operates at about 72.5% of its theoretical air-standard limit. The remaining losses are due to friction, heat transfer to coolant, pumping losses (turbo backpressure), and non-instantaneous combustion (irreversibilities).
 
-This explains why buses like the J4500 feel more "peppy" on cold winter mornings—the engine is breathing denser air, producing more torque and power, even if the thermodynamic efficiency cycle-to-cycle is marginally lower.
+This explains why buses like the J4500 can feel more "peppy" in the winter; the engine is breathing denser air, producing more torque and power, even if the thermodynamic efficiency cycle-to-cycle is marginally lower.
 
-**Technologies Used:** Hand calculations, Diesel Cycle Model
+**Technologies Used:** Hand calculations, Goodnotes
 
 <script>
   MathJax = {
