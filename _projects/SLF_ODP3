@@ -1,72 +1,64 @@
 ---
 layout: page
-title: "SLF_ODP3: Pre-harvesting Apparatus Client Proposal"
-description: "Client Outreach Assignment - Team: The Entomophiles"
+title: SLF_ODP3 Proposal
 ---
 
 # Pre-harvesting Apparatus Client Proposal
+
 **Team:** The Entomophiles  
-**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ---
 
 ## Problem Statement
 Spotted lanternflies (SLF) are an invasive species that have greatly disrupted commercial grape production by aggregating on and feeding from grapevines, reducing crop quality, inhibiting ripening, and contaminating harvests.
 
-Our main target is the removal of roughly **90% of SLF** in a single harvest/load immediately prior to harvest, in comparison with a non-treated infested vineyard. 
+Our main target is the removal of roughly **90% of SLF** in a single harvest/load immediately prior to harvest, in comparison with a non-treated infested vineyard.
 
 ### Success Metrics:
-* **Core Sample Purity:** Fewer than 1-2 SLF remaining in a core sample of 1000 grams of grape crops (the industry rejection threshold).
-* **Weight Ratio:** SLF comprise less than 2% of the weight of a core sample of harvested grapes.
+* **Core Sample Purity:** Fewer than 1-2 SLF remaining in a 1000g sample.
+* **Weight Ratio:** SLF comprise less than 2% of the harvested weight.
 
 ### Engineering Constraints:
-* **Grape Fragility:** Force must be controlled to prevent "shatter" (loss of grapes) or bruising.
-* **SLF Adhesion:** SLF have been documented to maintain grip on vehicle exteriors up to 100km/h [1], requiring high-velocity fluid or air to dislodge them.
+* **Grape Fragility:** Force must be controlled to prevent "shatter."
+* **SLF Adhesion:** High-velocity fluid/air is required to break SLF grip [1].
 
 ---
 
 ## Impact
-This product will allow grape farmers to immediately solve the issue of SLF within harvesters, allowing for more loads to be accepted without having to worry about large-scale removal operations. Furthermore, this solution can be implemented without further infrastructure, allowing for rapid adoption.
+This product will allow grape farmers to immediately solve the issue of SLF within harvesters. This solution can be implemented without further infrastructure, allowing for rapid adoption.
 
 ---
 
 ## Proposed Direction: Pre-Harvest Processing
-**What it is:** Our primary concept is an apparatus mounted to the front of a harvester that removes the spotted lanternflies before the harvesting begins. We will use either water or air—or a combination of both—delivered via a multi-stage nozzle system.
+
+**What it is:** An apparatus mounted to the front of a harvester that removes SLF using a multi-stage water/air nozzle system before the picking head reaches the vine.
 
 **How it would be used:**
-1. Apparatus attaches to the harvester intake/front frame.
-2. Fluid (water/air) and power sources are connected to the harvester's auxiliary systems.
-3. System activates automatically during rows.
-4. Apparatus removes SLF prior to the picking head reaching the vine.
-5. Modular design allows for removal/storage after the harvest season.
+1.  **Mount:** Attach to the harvester intake frame.
+2.  **Connect:** Link to hydraulic or auxiliary power.
+3.  **Operate:** System runs automatically during the harvest row.
+4.  **Remove:** Modular design for easy off-season storage.
 
 **Why it’s better than the status quo:**
-* **Immediate Yield Protection:** Prevents load rejection at the winery gate.
-* **Infrastructure Friendly:** Mounts to existing harvesters rather than requiring new specialized machinery.
-* **Scalability:** Adaptable to different harvester widths and vineyard layouts.
-
-**End-of-Semester Proof-of-Concept:**
-A miniature prototype demonstrating the fluid delivery system. It will use a combination of directed air and water to remove simulated SLF from a mock-up grapevine, powered by an onboard battery and portable water reservoir.
+* **Yield Protection:** Prevents load rejection at the winery gate.
+* **Infrastructure Friendly:** Adapts to existing machinery.
 
 ---
 
 ## Key Risks & Unknowns
-* **Incidental Harvest:** SLF removal methods could accidentally dislodge grapes. We will test this by creating “dummy” SLF and measuring grape loss on real vines.
-* **Plant Pathology:** High-pressure removal could damage the vine bark or leaves, impacting future growth.
-* **Fluid Saturation:** Excess water may dilute the sugar concentration (Brix) of the harvest or affect soil health. We will investigate the minimum effective fluid volume needed.
+* **Incidental Harvest:** Risk of dislodging grapes.
+* **Plant Pathology:** Potential damage to vine bark.
+* **Fluid Saturation:** Risk of diluting grape sugar (Brix).
 
 ---
 
 ## Questions for the Client
-1. **Fluid Dynamics:** Based on your experience, what is the maximum water or air pressure grapes can withstand before they begin to fall off the vine (shatter)?
-2. **Mechanical Envelope:** What are the specific mounting dimensions and weight limitations for the front of your standard harvesters?
-3. **Auxiliary Power:** Do the harvesters have available hydraulic remotes or 12V/24V electrical taps to power our pumps or fans?
-4. **Current Protocols:** What is your current SOP (Standard Operating Procedure) when a "hot spot" of high SLF density is detected in a row?
+1.  What is the maximum air/water pressure grapes can withstand before "shattering"?
+2.  What are the mounting dimensions for the front of your standard harvesters?
+3.  Do your harvesters have available hydraulic remotes or 12V/24V taps?
 
 ---
 
 ## References
 [1] *High-speed adhesion of Spotted Lanternfly.* [NCBI/PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11285766)
-
-
-[1] <https://pmc.ncbi.nlm.nih.gov/articles/PMC11285766>
