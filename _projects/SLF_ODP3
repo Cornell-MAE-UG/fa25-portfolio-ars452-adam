@@ -56,10 +56,8 @@ Our end of semester proof of concept will be a miniature prototype of the device
 
 - SLF removal methods could remove grapes — If grapes are removed outside of the collection system, then that would decrease the total yield of the harvest. This can be tested by creating “dummy” SLF, and testing on a real grape vine.
 - removing SLF could damage the grape plants — Any damage to the physical plant could decrease the production of future harvests. This can be tested by using the removal method directly on the plant, and inspecting for damage. 
-- usage of fluids could oversaturate the vineyard or contaminate the grape harvest — Spraying a significant amount of water or other fluid on the grapes prior to harvest could seep into the soil with adverse effects of vine/grape growth. Chemicals other than water that have not been thoroughly tested on vineyards may inhibit the quality of the grapes over time.
+- usage of fluids could oversaturate the vineyard or contaminate the grape harvest — Spraying a significant amount of water or other fluid on the grapes prior to harvest could seep into the soil with adverse effects of vine/grape growth. Chemicals other than water that have not been thoroughly tested on vineyards may affect the quality of the grapes over time or impact food safety.
 
-
- Another risk is that the device might not have enough power to overcome the grip strength that the SLF has. Additionally, there is the risk for the device to slow or disrupt harvesting if SLF removal cannot keep pace with grape picking. If water is used, there is the risk of oversaturating the vineyard and causing lasting soil damage. If chemicals such as vinegar are used, there is the additional risk of grape crop contamination.
 
 ## Questions for the client
 Focus on questions they can answer from lived experience.
