@@ -1,10 +1,6 @@
----
-layout: page
-title: SLF_ODP3 Proposal
----
+<div style="max-width: 800px; margin: 0 auto; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292e;">
 
 # Pre-harvesting Apparatus Client Proposal
-
 **Team:** The Entomophiles  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
@@ -13,52 +9,48 @@ title: SLF_ODP3 Proposal
 ## Problem Statement
 Spotted lanternflies (SLF) are an invasive species that have greatly disrupted commercial grape production by aggregating on and feeding from grapevines, reducing crop quality, inhibiting ripening, and contaminating harvests.
 
-Our main target is the removal of roughly **90% of SLF** in a single harvest/load immediately prior to harvest, in comparison with a non-treated infested vineyard.
+Our main target is the removal of roughly **90% of SLF** in a single harvest/load immediately prior to harvest.
 
-### Success Metrics:
+### Success Metrics
 * **Core Sample Purity:** Fewer than 1-2 SLF remaining in a 1000g sample.
-* **Weight Ratio:** SLF comprise less than 2% of the harvested weight.
+* **Weight Ratio:** SLF comprise less than 2% of the total harvested weight.
 
-### Engineering Constraints:
-* **Grape Fragility:** Force must be controlled to prevent "shatter."
-* **SLF Adhesion:** High-velocity fluid/air is required to break SLF grip [1].
+### Engineering Constraints
+* **Grape Fragility:** Force must be controlled to prevent "shatter" (loss of grapes).
+* **SLF Adhesion:** High-velocity fluid or air is required to dislodge SLF, which can grip surfaces up to 100km/h [1].
 
 ---
 
 ## Impact
-This product will allow grape farmers to immediately solve the issue of SLF within harvesters. This solution can be implemented without further infrastructure, allowing for rapid adoption.
+This product allows grape farmers to immediately solve the SLF issue within harvesters, allowing for more loads to be accepted without large-scale removal operations. This solution can be implemented without further infrastructure, allowing for rapid adoption.
 
 ---
 
-## Proposed Direction: Pre-Harvest Processing
+## Proposed Direction: Concept A
+**The Apparatus:** A multi-stage nozzle system mounted to the front of a harvester that removes SLF using water or air before the picking head reaches the vine.
 
-**What it is:** An apparatus mounted to the front of a harvester that removes SLF using a multi-stage water/air nozzle system before the picking head reaches the vine.
-
-**How it would be used:**
-1.  **Mount:** Attach to the harvester intake frame.
-2.  **Connect:** Link to hydraulic or auxiliary power.
-3.  **Operate:** System runs automatically during the harvest row.
-4.  **Remove:** Modular design for easy off-season storage.
-
-**Why it’s better than the status quo:**
-* **Yield Protection:** Prevents load rejection at the winery gate.
-* **Infrastructure Friendly:** Adapts to existing machinery.
+### Implementation
+1.  **Mounting:** Attaches to the harvester intake/front frame.
+2.  **Power:** Connected to the harvester's auxiliary hydraulic or electrical systems.
+3.  **Modular Design:** Allows for easy removal and storage after the harvest season.
 
 ---
 
 ## Key Risks & Unknowns
-* **Incidental Harvest:** Risk of dislodging grapes.
-* **Plant Pathology:** Potential damage to vine bark.
-* **Fluid Saturation:** Risk of diluting grape sugar (Brix).
+* **Incidental Harvest:** Risk of accidentally removing grapes along with SLF.
+* **Plant Pathology:** High-pressure impact could damage vine bark or foliage.
+* **Fluid Saturation:** Excess water could dilute grape sugar levels (Brix) or impact soil health.
 
 ---
 
 ## Questions for the Client
-1.  What is the maximum air/water pressure grapes can withstand before "shattering"?
-2.  What are the mounting dimensions for the front of your standard harvesters?
-3.  Do your harvesters have available hydraulic remotes or 12V/24V taps?
+1.  **Shatter Threshold:** What is the maximum air or water pressure grapes can withstand before falling off the vine?
+2.  **Mechanical Envelope:** What are the mounting dimensions and weight limits for your standard harvesters?
+3.  **Power Access:** Do the harvesters have available hydraulic remotes or 12V/24V electrical taps?
 
 ---
 
 ## References
-[1] *High-speed adhesion of Spotted Lanternfly.* [NCBI/PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11285766)
+[1] [High-speed adhesion of Spotted Lanternfly](https://pmc.ncbi.nlm.nih.gov/articles/PMC11285766)
+
+</div>
