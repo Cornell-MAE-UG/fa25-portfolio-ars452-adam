@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project 
 title: MAE 2250 SLF Removal Apparatus
 description: Pre-Harvesting Apparatus
 technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
