@@ -8,15 +8,18 @@ image:
 ---
 
   ## Client Pitch
+  
   **Team:** The Entomophiles
-  **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape  
+  
+  **Clients:** Cornell CALS Extension/E&J Gallo Winery/National Grape  
    
   ## Problem statement
   Spotted lanternflies (SLF) infest grapevines, contaminating harvests. We aim to remove ~90% before harvest. Because grapes are fragile and SLF adhere strongly, removal requires substantial but carefully controlled force.
+  
+---
 
   ## Impact
   This product will allow grape farmers to solve the issue of SLF within harvested crops, allowing for more loads to be accepted alongside large-scale removal operations.  
-</div>
 
 ---
 
