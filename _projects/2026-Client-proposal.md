@@ -1,13 +1,10 @@
 ---
 layout: project 
 title: MAE 2250 SLF Removal Apparatus
-description: Pre-Harvesting Apparatus
+description: Pre-Harvesting Apparatus (GUARD)
 technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
 image:
 ---
-
-# GUARD
-
 <div class="journal-intro">
   <img src="{{ "/assets/images/2250drawing.png" | relative_url }}" class="side-image" alt="Design Sketch">
 
