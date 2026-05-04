@@ -7,6 +7,8 @@ image:
 ---
 <div class="journal-intro">
   <img src="{{ "/assets/images/2250drawing.png" | relative_url }}" class="side-image" alt="Design Sketch">
+  
+---
 
   ## Client Pitch
   **Team:** The Entomophiles
