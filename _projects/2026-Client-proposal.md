@@ -116,3 +116,9 @@ Poured water into the hose of the prototype several times. Placed structure abov
 
 - Open center for grape vines to pass through, and water saturates at least 75% of the surface area directly below the frame (0.75 square feet) within 30 seconds. Water should be spread around evenly within the frame such that no areas potentially containing SLF are missed.  
 - Goal achieved: Placed absorbent cloth in bin under the prototype to test the surface area that the water reaches; cloth was fully soaked.  
+
+
+
+git add .
+git commit -m "<Commit Edit>"
+git push origin main
