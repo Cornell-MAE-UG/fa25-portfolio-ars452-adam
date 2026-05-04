@@ -6,40 +6,36 @@ technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
 image:
 ---
 
-## Table of Contents
-- [Client Pitch](#client-pitch)
-- [Functional Prototype](#functional-prototype)
+# {{ page.title }}
 
----
+<div class="journal-intro">
+  <img src="{{ "/assets/images/2250drawing.png" | relative_url }}" class="side-image" alt="Design Sketch">
 
-## Client Pitch
-**Team:** The Entomophiles
-**Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape  
- 
-## Problem statement
-Spotted lanternflies (SLF) infest grapevines, contaminating harvests. We aim to remove ~90% before harvest. Because grapes are fragile and SLF adhere strongly, removal requires substantial but carefully controlled force.
+  ## Client Pitch
+  **Team:** The Entomophiles
+  **Client(s):** Cornell CALS Extension/E&J Gallo Winery/National Grape  
+   
+  ## Problem statement
+  Spotted lanternflies (SLF) infest grapevines, contaminating harvests. We aim to remove ~90% before harvest. Because grapes are fragile and SLF adhere strongly, removal requires substantial but carefully controlled force.
 
-
-## Impact
-This product will allow grape farmers to solve the issue of SLF within harvested crops, allowing for more loads to be accepted alongside large-scale removal operations.  
+  ## Impact
+  This product will allow grape farmers to solve the issue of SLF within harvested crops, allowing for more loads to be accepted alongside large-scale removal operations.  
+</div>
 
 ---
 
 ## Proposed direction(s): Pre-Harvest Processing
-
 
 **What it is:** An apparatus that is mounted to the front of a harvester and removes the SLF before the harvesting begins. We will use water or air, and either flood or direct the fluid towards SLF.
  
 
 **How it would be used:**
 
-
 - Device mounts to the harvester and connects to water, air, and/or power.
 - Apparatus dislodges SLF from vines immediately prior to harvest.
  
 
 **Why it’s better than the status quo:**
-
 
 - Addresses problem in short term regarding yield
 - More adaptable to existing infrastructure  
@@ -58,23 +54,13 @@ This product will allow grape farmers to solve the issue of SLF within harvested
 
 ## Questions for the client
 
-
-1. **How much water / air pressure is necessary to wash off SLF?**  
-
-   *Decision affected:* Determination of optimal force to apply.
+1. **How much water / air pressure is necessary to wash off SLF?** *Decision affected:* Determination of optimal force to apply. 
    
 
-
-2. **What are the dimensions and physical limitations of the harvester?**  
-
-   *Decision affected:* Determination of apparatus size, fluid output, system complexity.
+2. **What are the dimensions and physical limitations of the harvester?** *Decision affected:* Determination of apparatus size, fluid output, system complexity.
 
 
-
-3. **Is a stable water supply available, and can the harvester power a compressor?**  
-
-   *Decision affected:* If not, air requires onboard compression and water requires onboard storage, increasing weight.
-
+3. **Is a stable water supply available, and can the harvester power a compressor?** *Decision affected:* If not, air requires onboard compression and water requires onboard storage, increasing weight.
 
 
 ## Functional Prototype
@@ -105,7 +91,7 @@ Poured water into the hose of the prototype several times. Placed structure abov
 
 - Visually inspected for unintended water leakages.  
 - Part it’s testing: Testing security of connections, whether significant design changes are necessary for the parts conducting water.  
-- Results: Noticed small dripping leakage at threaded connection between PVC pipe and barbed hose connector  
+- Results: Noticed small dripping leakage at threaded connection between PVC pipe and barbed hose connector 
 - Conclusion: Tapping the PVC pipe at the connection could reduce leakage.  
 
 - Placed absorbent cloth in the bin under the prototype.  
@@ -115,7 +101,7 @@ Poured water into the hose of the prototype several times. Placed structure abov
 
 - Measured 1000mL of water, poured into the hose at a steady rate. Time to fully drain was recorded.  
 - Part it’s testing: Hose and piping carrying water, and whether there are significant blockages.  
-- Results: Expended 1000mL in 58.07 sec.  
+- Results: Expended 1000mL in 58.07 sec. 
 - Conclusion: Water flows well. Existing connections and methods of processing piping are good in this regard.  
 
 ---
