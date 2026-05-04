@@ -6,7 +6,7 @@ technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
 image:
 ---
 
-# {{ page.title }}
+# GUARD
 
 <div class="journal-intro">
   <img src="{{ "/assets/images/2250drawing.png" | relative_url }}" class="side-image" alt="Design Sketch">
@@ -24,7 +24,7 @@ image:
 
 ---
 
-## Proposed direction(s): Pre-Harvest Processing
+## Proposed direction: Pre-Harvest Processing
 
 **What it is:** An apparatus that is mounted to the front of a harvester and removes the SLF before the harvesting begins. We will use water or air, and either flood or direct the fluid towards SLF.
  
