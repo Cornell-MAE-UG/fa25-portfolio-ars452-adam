@@ -1,10 +1,9 @@
 ---
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
+layout: project
+title: MAE 2250 Spotted Lanternfly Removal
+description: Open design project for ...
+technologies: [Autodesk Fusion]
+image: /assets/images/radio-machine-cad.jpg
 ---
 
 
