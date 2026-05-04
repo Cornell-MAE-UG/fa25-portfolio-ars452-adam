@@ -81,7 +81,7 @@ At harvest, grapes are extremely delicate and easily damaged or dislodged, while
 ## Functional Prototype
 
 ### Design Sketch
-![Design Sketch] (assets/images/GUARD-Sketch.png)
+<img src="../../assets/images/GUARD_Sketch.png" width=500px>
 
 ### Component List
 ![Component List]({{ "/assets/images/2250list.png" | relative_url }}){: .setup-image style="width: 500px"}
