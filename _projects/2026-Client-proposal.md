@@ -6,6 +6,13 @@ technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
 image: assets/images/GUARD.png
 
 ---
+
+## Table of Contents
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
+
+---
+
   **Team:** The Entomophiles
   
   **Clients:** Cornell CALS Extension/E&J Gallo Winery/National Grape  
