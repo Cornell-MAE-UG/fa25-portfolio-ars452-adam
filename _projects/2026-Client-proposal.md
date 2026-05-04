@@ -12,12 +12,12 @@ image:
 
 ---
    
-  ## Problem statement
+  **Problem Statement**
   Spotted lanternflies (SLF) infest grapevines, contaminating harvests. We aim to remove ~90% before harvest. Because grapes are fragile and SLF adhere strongly, removal requires substantial but carefully controlled force.
   
 ---
 
-  ## Impact
+  **Impact**
   This product will allow grape farmers to solve the issue of SLF within harvested crops, allowing for more loads to be accepted alongside large-scale removal operations.  
 
 ---
