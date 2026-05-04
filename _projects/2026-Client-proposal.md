@@ -6,12 +6,11 @@ technologies: [CAD, Vertical Bandsaw, Drill, Saw, 3D Printing]
 image:
 
 ---
-
-  ## Client Pitch
-  
   **Team:** The Entomophiles
   
   **Clients:** Cornell CALS Extension/E&J Gallo Winery/National Grape  
+
+---
    
   ## Problem statement
   Spotted lanternflies (SLF) infest grapevines, contaminating harvests. We aim to remove ~90% before harvest. Because grapes are fragile and SLF adhere strongly, removal requires substantial but carefully controlled force.
