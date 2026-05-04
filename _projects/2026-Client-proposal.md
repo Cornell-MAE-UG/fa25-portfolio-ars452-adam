@@ -13,6 +13,16 @@ image: assets/images/GUARD.png
 
 ---
 
+## Introduction
+
+Spotted lanternflies (SLF) infest grapevines, contaminating harvests and damaging vineyards that are critical to local economies in regions such as New York. Within this broader challenge, this work targets the specific, high-impact sub-problem of removal of SLF immediately prior to harvest, when insects attached to vines are likely to be collected with grape clusters and directly contaminate the product. This focus enables large short-term gains without requiring full population control.
+At harvest, grapes are extremely delicate and easily damaged or dislodged, while SLF exhibit strong adhesion to surfaces, requiring substantial but carefully controlled force for removal. With chemical and biological methods still uncertain in their effectiveness and ability to scale, a kinetic alternative is necessary in the meanwhile. Our proposed solution integrates directly with existing harvesting equipment, avoids disruption to workflows or costly vineyard-wide deployment, scales easily, and targets the SLF population most immediately affecting yield. 
+
+
+---
+
+## Client Pitch
+
   **Team:** The Entomophiles
   
   **Clients:** Cornell CALS Extension/E&J Gallo Winery/National Grape  
