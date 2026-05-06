@@ -157,27 +157,27 @@ Qualitatively, we believe are results are overall inconclusive. Due to time and 
 **4 Testing and Results**
 
 1. <u>Objective:<u> Evaluate integrity and efficacy of water-carrying components.
-   (a) Success Criteria: Achieve steady flow rate of 17 mL/s with less than 5% water volume
+- Success Criteria: Achieve steady flow rate of 17 mL/s with less than 5% water volume
 lost to leakage.
-   (b) Observations: GUARD expended 1000mL in 58.1 sec (17 mL/s). Minimal dripping
+- Observations: GUARD expended 1000mL in 58.1 sec (17 mL/s). Minimal dripping
 leakages.
-   (c) Conclusions: Water flows well. Existing connections and methods of processing piping
+- Conclusions: Water flows well. Existing connections and methods of processing piping
 are satisfactory in this regard. When fully implemented, expect to sustain fluid flow
 during normal harvesting operations.
 
 2. <u>Objective:<u> Evaluate whether “checkerboard” hole and pipe distribution enables full area
 saturation.
-   a. Success Criteria: Achieve saturation of 95% area within cage.
-   b. Observations: Cloth was fully soaked within seconds after beginning operation.
-   c. Conclusions: 100% area saturation was achieved. It may be a future consideration to
+- Success Criteria: Achieve saturation of 95% area within cage.
+- Observations: Cloth was fully soaked within seconds after beginning operation.
+- Conclusions: 100% area saturation was achieved. It may be a future consideration to
 implement nozzles or other to further improve saturated area and reduce damage to
 plants caused by a direct dripping flow. Final implementation may use more advanced
 methods for ensuring fluid coverage of target area.
 
 3. Objective: Evaluate structural integrity of cage.
-   (a) Success Criteria: less than 2 mm of deflection with only supported from one end
-   (b) Observations: The frame deflected 0.6 mm.
-   (c) Conclusions: The metal frame deflects within acceptable tolerances and is stable. Expect
+- Success Criteria: less than 2 mm of deflection with only supported from one end
+- Observations: The frame deflected 0.6 mm.
+- Conclusions: The metal frame deflects within acceptable tolerances and is stable. Expect
 to be able to scale up for final implementation while remaining relatively lightweight and
 rigid.
 
