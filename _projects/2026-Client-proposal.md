@@ -156,7 +156,7 @@ Qualitatively, we believe are results are overall inconclusive. Due to time and 
 
 **4 Testing and Results**
 
-1. <u>Objective:<u> Evaluate integrity and efficacy of water-carrying components.
+1. Objective: Evaluate integrity and efficacy of water-carrying components.
 - Success Criteria: Achieve steady flow rate of 17 mL/s with less than 5% water volume
 lost to leakage.
 - Observations: GUARD expended 1000mL in 58.1 sec (17 mL/s). Minimal dripping
@@ -165,7 +165,7 @@ leakages.
 are satisfactory in this regard. When fully implemented, expect to sustain fluid flow
 during normal harvesting operations.
 
-2. <u>Objective:<u> Evaluate whether “checkerboard” hole and pipe distribution enables full area
+2. Objective: Evaluate whether “checkerboard” hole and pipe distribution enables full area
 saturation.
 - Success Criteria: Achieve saturation of 95% area within cage.
 - Observations: Cloth was fully soaked within seconds after beginning operation.
