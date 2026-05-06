@@ -172,42 +172,12 @@ to be able to scale up for final implementation while remaining relatively light
 rigid.
 
 **5 Rough Calculations for Scale**
-For a typical harvester with an opening width of less than 1 m [3], we can presume that with a
-similar layout with a similar depth would have a flow rate of 3.3 times the current system, giving
-us a flow rate of 56.1 mL/s. With a 60 gallon tank, this would provide a runtime of 1.12 hours. If
-one was able to improve the flow rate efficiency by 9 times, this system would have a runtime of approximately 10 hours. This flow rate efficiency increase is feasible with much improved nozzle
-technology compared to the current “waterfall” approach. Therefore, we believe that our testing
-results show feasibility for continuous operations during harvesting if improved upon and designed
-at full scale.
-6 Prototype and Testing Details
-Our model has two main parts, the frame and the pipe structure, with the goal of keeping a
-straightforward and lightweight design. Our frame was built from 1⁄2” diameter steel rods cut into
-eight 12” pieces and four 11”pieces. We used 3D printed corner joints to connect the rods into a
-cubic structure with the 11” rods on the vertical. There were four 12” bars for the top of the cube,
-two 12” bars that were connected with another kind of joint 2” below the top of the cube and on
-opposite sides, and two on the bottom on the sides where the offset bars weren’t. The PVC pipe
-for the main pipe structure was 3⁄4 pipe size. We used two 4” pieces of scrap 1” schedule 40 PVC for
-the hose fittings. We cut four 13” pieces and five 7/4” pieces out of the 3⁄4 pipe size PVC. On each
-13” piece we had two rows of holes. The rows were separated by a 1⁄2” and one row had holes drilled
-at every odd inch (1”, 3”, . . . , 11”) and the other row had holes on every even inch (2”, 4”, . . . ,
-10”). We then joined the 4 T-connectors in series using the 7/4” PVC pieces including both ends.
-We placed end caps on one end of the T-connector series and at all of the 13” pieces. We connected
-the 13” PVC pipes at the T-connectors, with the holes facing down. We then used a threaded 4”
-piece of 1” schedule 40 PVC to connect a threaded barbed hose connector to the 3⁄4 PVC at the
-end of the T-connector series. We used 3” of clear PVC soft tubing (1⁄2” inner diameter, 5
-8
-” outer
-diameter) to connect the pipe structure to the gallon jug. We connected the jug to the valve with a
-machined metal nut. The valve was connected to another threaded 4” piece of 1” schedule 40 PVC
-and then another barbed hose fitting to connect with the clear tubing. We then secured the pipe
-structure to the top of the frame with 3D printed clips. We attached two sheets of clear PETG
-sheets to the sides that were parallel to the length of the PVC pipes with zip ties.
-6.1 Test Methodology Details
-Flow Rate Test: We filled a jug with 1000mL of water. Then, we opened the valve to a fixed
-position to ensure steady flow and recorded the time to fully drain. We made a visual inspection
-for any unintended water leakages.
-Surface Area Test: For our surface area coverage test, we placed an absorbent cloth under the
-system and timed and visually checked how long it took for the cloth to be saturated everywhere.
-Deflection Test: We held it securely from one end and placed 6 kg on the other end to test
-deflection. We fixed a meter stick to the original height to ensure we properly measured deflection.
+For a typical harvester with an opening width of less than 1 m [3], we can presume that with a similar layout with a similar depth would have a flow rate of 3.3 times the current system, giving us a flow rate of 56.1 mL/s. With a 60 gallon tank, this would provide a runtime of 1.12 hours. If one was able to improve the flow rate efficiency by 9 times, this system would have a runtime of approximately 10 hours. This flow rate efficiency increase is feasible with much improved nozzle technology compared to the current “waterfall” approach. Therefore, we believe that our testing results show feasibility for continuous operations during harvesting if improved upon and designed at full scale.
+
+**6 Prototype and Testing Details**
+Our model has two main parts, the frame and the pipe structure, with the goal of keeping a straightforward and lightweight design. Our frame was built from 1⁄2” diameter steel rods cut into eight 12” pieces and four 11”pieces. We used 3D printed corner joints to connect the rods into a cubic structure with the 11” rods on the vertical. There were four 12” bars for the top of the cube, two 12” bars that were connected with another kind of joint 2” below the top of the cube and on opposite sides, and two on the bottom on the sides where the offset bars weren’t. The PVC pipe for the main pipe structure was 3⁄4 pipe size. We used two 4” pieces of scrap 1” schedule 40 PVC for the hose fittings. We cut four 13” pieces and five 7/4” pieces out of the 3⁄4 pipe size PVC. On each
+13” piece we had two rows of holes. The rows were separated by a 1⁄2” and one row had holes drilled at every odd inch (1”, 3”, . . . , 11”) and the other row had holes on every even inch (2”, 4”, . . . , 10”). We then joined the 4 T-connectors in series using the 7/4” PVC pieces including both ends. We placed end caps on one end of the T-connector series and at all of the 13” pieces. We connected the 13” PVC pipes at the T-connectors, with the holes facing down. We then used a threaded 4” piece of 1” schedule 40 PVC to connect a threaded barbed hose connector to the 3⁄4 PVC at the end of the T-connector series. We used 3” of clear PVC soft tubing (1⁄2” inner diameter, 5 8 ” outer diameter) to connect the pipe structure to the gallon jug. We connected the jug to the valve with a machined metal nut. The valve was connected to another threaded 4” piece of 1” schedule 40 PVC and then another barbed hose fitting to connect with the clear tubing. We then secured the pipe structure to the top of the frame with 3D printed clips. We attached two sheets of clear PETG sheets to the sides that were parallel to the length of the PVC pipes with zip ties.
+
+**6.1 Test Methodology Details**
+Flow Rate Test: We filled a jug with 1000mL of water. Then, we opened the valve to a fixed position to ensure steady flow and recorded the time to fully drain. We made a visual inspection for any unintended water leakages. Surface Area Test: For our surface area coverage test, we placed an absorbent cloth under the system and timed and visually checked how long it took for the cloth to be saturated everywhere. Deflection Test: We held it securely from one end and placed 6 kg on the other end to test deflection. We fixed a meter stick to the original height to ensure we properly measured deflection.
 
