@@ -167,9 +167,9 @@ during normal harvesting operations.
 
 2. <ins>Objective:<ins> Evaluate whether “checkerboard” hole and pipe distribution enables full area
 saturation.
-   (a) Success Criteria: Achieve saturation of 95% area within cage.
-   (b) Observations: Cloth was fully soaked within seconds after beginning operation.
-   (c) Conclusions: 100% area saturation was achieved. It may be a future consideration to
+   a. Success Criteria: Achieve saturation of 95% area within cage.
+   b. Observations: Cloth was fully soaked within seconds after beginning operation.
+   c. Conclusions: 100% area saturation was achieved. It may be a future consideration to
 implement nozzles or other to further improve saturated area and reduce damage to
 plants caused by a direct dripping flow. Final implementation may use more advanced
 methods for ensuring fluid coverage of target area.
