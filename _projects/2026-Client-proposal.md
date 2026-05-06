@@ -83,10 +83,12 @@ At harvest, grapes are extremely delicate and easily damaged or dislodged, while
 
 ### Design Sketch
 <img src="../../assets/images/GUARD-Sketch.png" width=500px>
+
 A sketch of the components of our device, detailing the ways in which they connect to allow optimal function. 
 
 ### Functionality Sketch
 <img src="../../assets/images/Harvester pic.png" width=500px>
+
 Our device is designed to attach to the front of the harvester, as seen here. Water is presumed to be stored in a tank located on the harvester itself or be pumped from exisiting irrigation systems into our device.
 
 ### Component List
