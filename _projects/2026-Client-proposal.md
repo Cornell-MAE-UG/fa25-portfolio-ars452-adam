@@ -88,7 +88,7 @@ At harvest, grapes are extremely delicate and easily damaged or dislodged, while
 <img src="../../assets/images/Harvester pic.png" width=500px>
 
 ### Component List
-![Component List]({{ "/assets/images/2250list.png" | relative_url }}){: .setup-image style="width: 500px"}
+![Component List]({{ "/assets/images/Bill of Materials.png" | relative_url }}){: .setup-image style="width: 500px"}
 
 
 ### Assembly Instructions
