@@ -138,16 +138,21 @@ Poured water into the hose of the prototype several times. Placed structure abov
 
 ### Client Report
 
+
 **1 Introduction**
 
 Spotted lanternflies (SLF) infest grapevines, contaminating harvests and damaging vineyards that are critical to local economies in regions such as New York [1]. Within this broader challenge, this work targets the specific, high-impact sub-problem of removal of SLF immediately prior to harvest, when insects attached to vines are likely to be collected with grape clusters and directly contaminate the product. This focus enables large short-term gains without requiring full population control. At harvest, grapes are extremely delicate and easily damaged or dislodged, while SLF exhibit strong adhesion to surfaces [2], requiring substantial but carefully controlled force for removal. With chemical and biological methods still uncertain and difficult to scale, a kinetic alternative is necessary. The proposed solution Grapevine Unit for Arthropod Removal and Defense (GUARD) integrates directly with existing harvesting equipment, avoids disruption to workflows or costly vineyard-wide deployment, scales easily, and targets the SLF population most immediately affecting yield.
+
 
 **2 Final Prototype and Application**
 
 A front-mounted harvester spray attachment was built to wash spotted lanternflies (SLF) off grape vines immediately before harvest. Water is stored in a refillable tank mounted above the system, then flows through a controllable valve into a PVC pipe network. The pipes have evenly spaced holes arranged in a staggered (checkerboard) pattern to spread water uniformly while minimizing usage. The spray system is supported by a lightweight aluminum frame with rigid 3D-printed joints. Our device is designed to attach to the front of the harvester, extending above the vines below. Water showers onto the vines, penetrating the vines’ verdure and saturating any SLF that may be feasting on the plant. The water serves to encourage them to jump off the plant, or adsorb onto their wings such that they will fall to the ground. In its current form, our device requires a reliable water source, likely the already established irrigation system on the vineyards or a refillable water tank, and an attachment point to the front of the harvester. The controllable valve means that our device can accommodate the needs of different vineyards or grape plants without wasting resources or causing unnecessary damage. Its minimal design lends itself to infrequent and inexpensive maintenance. Our device is also singular in function, meaning that it does not require an extensive infrastructure of similar devices to perform optimally. As far as the client is concerned, this is an attachment for harvesters to immediately increase yield of harvests by removing SLF from the vines directly before harvester takes them.
 
+
 **3 Conclusions and Recommendations**
+
 Qualitatively, we believe are results are overall inconclusive. Due to time and resource limitations we were unable to implement a positive pressure system which is necessary to ”spray” water out of nozzles. Using gravity alone simply redirects the flow of water. Although our saturation test was successful, it only measured the saturation at the ground, and therefore is not the best representation of the plant saturation. The recommendation for further work is to implement directional nozzles in a positive pressure system to spray water more efficiently. It would also be beneficial to supplement the system with high pressure air blasts directed at the SLF, to knock off those that do not fall off from the water.
+
 
 **4 Testing and Results**
 
@@ -155,10 +160,8 @@ Qualitatively, we believe are results are overall inconclusive. Due to time and 
 
 (a) Success Criteria: Achieve steady flow rate of 17 mL/s with less than 5% water volume
 lost to leakage.
-
 (b) Observations: GUARD expended 1000mL in 58.1 sec (17 mL/s). Minimal dripping
 leakages.
-
 (c) Conclusions: Water flows well. Existing connections and methods of processing piping
 are satisfactory in this regard. When fully implemented, expect to sustain fluid flow
 during normal harvesting operations.
@@ -167,9 +170,7 @@ during normal harvesting operations.
 saturation.
 
 (a) Success Criteria: Achieve saturation of 95% area within cage.
-
 (b) Observations: Cloth was fully soaked within seconds after beginning operation.
-
 (c) Conclusions: 100% area saturation was achieved. It may be a future consideration to
 implement nozzles or other to further improve saturated area and reduce damage to
 plants caused by a direct dripping flow. Final implementation may use more advanced
@@ -178,15 +179,16 @@ methods for ensuring fluid coverage of target area.
 3. Objective: Evaluate structural integrity of cage.
 
 (a) Success Criteria: less than 2 mm of deflection with only supported from one end
-
 (b) Observations: The frame deflected 0.6 mm.
-
 (c) Conclusions: The metal frame deflects within acceptable tolerances and is stable. Expect
 to be able to scale up for final implementation while remaining relatively lightweight and
 rigid.
 
+
 **5 Rough Calculations for Scale**
+
 For a typical harvester with an opening width of less than 1 m [3], we can presume that with a similar layout with a similar depth would have a flow rate of 3.3 times the current system, giving us a flow rate of 56.1 mL/s. With a 60 gallon tank, this would provide a runtime of 1.12 hours. If one was able to improve the flow rate efficiency by 9 times, this system would have a runtime of approximately 10 hours. This flow rate efficiency increase is feasible with much improved nozzle technology compared to the current “waterfall” approach. Therefore, we believe that our testing results show feasibility for continuous operations during harvesting if improved upon and designed at full scale.
+
 
 **6 Prototype and Testing Details**
 
